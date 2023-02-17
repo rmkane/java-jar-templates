@@ -1,0 +1,2 @@
+println 'This is executed during the initialization phase.'
+rootProject.name = 'sample-gradle-project'
